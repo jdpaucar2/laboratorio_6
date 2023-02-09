@@ -1,4 +1,4 @@
-# laboratorio_6
+# Laboratorio_7
 
 # "UNIVERSIDAD DE LAS FUERZAS ARMADAS"
 # ESPE
