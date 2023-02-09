@@ -50,10 +50,15 @@
 
 * 3.1 MATERIALES DE LA PRACTICA Y DIAGRAMA.
 
+![image](https://user-images.githubusercontent.com/116772918/217965289-543156ac-b086-41e7-9f01-7698bf43ec29.png)
+
+
+![image](https://user-images.githubusercontent.com/116772918/217965196-28c41884-0fe8-475b-beb6-0d638f7fb35a.png)
+
 
 * 3.2 PROCEDIMIENTO
 
-* 3.2.1 DIAGRMA EN TINKERCAD
+* 3.2.1 1 Construya en el protoboard el circuito mostrado en la Figura 1.
 
 
 
