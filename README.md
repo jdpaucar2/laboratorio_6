@@ -147,16 +147,43 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------
 **4. RESPUESTA A INTERROGANTES Y CALCULO**
 
-* 4.1 Valores del Circuito Equivalente de Thévenin
+**4.1 Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las
+diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
+comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
 
 
 
-  
-* 4.2 Comprobación del Teorema de Thévenin
 
 
 
+
+
+...
+
+
+
+**4.2 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+**4.2.1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+La bobina y el capacitor se oponen al cambio inmediato del voltaje y la corriente respectivamente generando un voltaje o corriente inducido.
+
+La bobina al tener una corriente constante la caída de tensión que pasa sobre ella es igual a cero simulando un cortocircuito (cable), es decir, la bobina en corriente continua se comporta como un cable.
+
+Debido a que la intensidad de corriente que atravesaría el capacitor es igual a cero el capacitor, se lo toma como un “circuito abierto” en el circuito.
+
+**4.2.2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+La bobina y el capacitor están en un constante proceso de carga y descarga por lo que el voltaje se mantiene durante un intervalo de tiempo definido debido a que existe una variación de corriente.
+
+**4.2.3 ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+Los valores de Vₒ varían en función de que tanto se altere la impedancia del valor total de impedancia, Si la impedancia capacitiva o resistiva resulta ser menor, la caída de tensión Vₒ sería menor y si resulta ser mayor, la caída de tensión Vₒ sería mayor.
+
+**4.2.4 ¿Qué son los valores eficaces de voltaje y corriente?
+
+Los valores eficaces de corriente y voltaje son aquellos valores equivalentes en corriente continua es decir tendrá el mismo comportamiento respecto a potencia suministrada en el circuito.
 
 
 
@@ -172,7 +199,9 @@
 
 **6. CONCLUSIONES**
 
-
+* El osciloscopio muestra la forma de onda seno de la corriente alterna que permite determinar el voltaje pico, pico a pico y rms.
+* El valor de la caída de tensión medida con el multímetro corresponde al valor eficaz de la caída de tensión media con el osciloscopio.
+* En cero Hz la corriente se comporta como corriente continua lo que puede hacer que dependiendo de la frecuencia los capacitores e inductores se comporten de una forma u otra.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7. BIBLIOGRAFÍA**
