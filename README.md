@@ -144,6 +144,11 @@
 **1000 Hz**
 
 ![image](https://user-images.githubusercontent.com/116772918/218095423-a32317a9-52b6-460b-a5fb-701e0f9210c3.png)
+
+
+![image](https://user-images.githubusercontent.com/116772918/218143137-edd00b44-ed69-448e-bb7c-d21ed5b4a510.png)
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 **4. RESPUESTA A INTERROGANTES Y CALCULO**
 
@@ -165,7 +170,7 @@ comente los resultados obtenidos tomando en cuenta las distintas frecuencias uti
 
 **4.2 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-**4.2.1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+**4.2.1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
 
 La bobina y el capacitor se oponen al cambio inmediato del voltaje y la corriente respectivamente generando un voltaje o corriente inducido.
 
@@ -173,15 +178,15 @@ La bobina al tener una corriente constante la caída de tensión que pasa sobre 
 
 Debido a que la intensidad de corriente que atravesaría el capacitor es igual a cero el capacitor, se lo toma como un “circuito abierto” en el circuito.
 
-**4.2.2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+**4.2.2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?**
 
 La bobina y el capacitor están en un constante proceso de carga y descarga por lo que el voltaje se mantiene durante un intervalo de tiempo definido debido a que existe una variación de corriente.
 
-**4.2.3 ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+**4.2.3 ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?**
 
 Los valores de Vₒ varían en función de que tanto se altere la impedancia del valor total de impedancia, Si la impedancia capacitiva o resistiva resulta ser menor, la caída de tensión Vₒ sería menor y si resulta ser mayor, la caída de tensión Vₒ sería mayor.
 
-**4.2.4 ¿Qué son los valores eficaces de voltaje y corriente?
+**4.2.4 ¿Qué son los valores eficaces de voltaje y corriente?**
 
 Los valores eficaces de corriente y voltaje son aquellos valores equivalentes en corriente continua es decir tendrá el mismo comportamiento respecto a potencia suministrada en el circuito.
 
