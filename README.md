@@ -110,8 +110,7 @@
 
 **500 Hz**
 
-![image](https://user-images.githubusercontent.com/116772918/218093794-7b4d7347-b780-4ea1-a349-b40948048133.png)
-
+![image](https://user-images.githubusercontent.com/116772918/218097645-b69ac062-49bf-4d4e-a200-450a4f6ac666.png)
 
 **1000 Hz**
 
