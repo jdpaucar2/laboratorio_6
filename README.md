@@ -89,6 +89,37 @@
 ![image](https://user-images.githubusercontent.com/116772918/217990630-118e2150-3e73-447a-b11b-ac18f616afc4.png)
 
 
+**B)** Utilice un multímetro para medir el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+
+**0 Hz**
+
+![image](https://user-images.githubusercontent.com/116772918/218092910-87572a1f-ea0b-46ca-80b6-9aa2e528d054.png)
+
+**10 Hz**
+
+![image](https://user-images.githubusercontent.com/116772918/218093094-3083d3c1-70ae-46c5-af28-f6d4749db339.png)
+
+**50 Hz**
+
+![image](https://user-images.githubusercontent.com/116772918/218093221-e36f5f22-517a-4d4e-bba0-0d998bbd42bd.png)
+
+**100 Hz**
+
+![image](https://user-images.githubusercontent.com/116772918/218093456-f846b7b3-9baa-46d5-bd6a-c05e96f88810.png)
+
+**500 Hz**
+
+![image](https://user-images.githubusercontent.com/116772918/218093794-7b4d7347-b780-4ea1-a349-b40948048133.png)
+
+
+**1000 Hz**
+
+![image](https://user-images.githubusercontent.com/116772918/217990630-118e2150-3e73-447a-b11b-ac18f616afc4.png)
+
+
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 **4. RESPUESTA A INTERROGANTES Y CALCULO**
