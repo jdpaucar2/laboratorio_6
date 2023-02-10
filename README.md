@@ -2,7 +2,7 @@
 
 # "UNIVERSIDAD DE LAS FUERZAS ARMADAS"
 # ESPE
-# PRÁCTICA No. 6 TEOREMA DE THÉVENIN
+# PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 ![image](https://user-images.githubusercontent.com/116772918/200762591-a164d8db-c02e-4269-8bb4-0bc4c810d79f.png)
 
@@ -13,7 +13,7 @@
 * Juan David Paucar Amagua
 
 
-**PRACTICA DE LABORATORIO Nº5**
+**PRACTICA DE LABORATORIO Nº7**
 
 **FECHA DE ENTREGA**
 * 10/02/2023
