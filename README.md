@@ -151,6 +151,11 @@
 
 **A)** Utilice el osciloscopio para observar el voltaje variando la frecuencia entre los valores de **0, 10, 50, 100, 500, 1000** . Anote los valores pico de las ondas observadas.
 
+**0 Hz**
+![8b9c2571-51c3-4a3f-b482-bc6cac844366](https://user-images.githubusercontent.com/116772918/218151909-399a8034-8d5c-410e-a968-eb98a8b4ef56.jpg)
+
+
+
 **10 Hz**
 
 ![401ebfa0-ddc6-449b-89e1-b369d4e5ed27](https://user-images.githubusercontent.com/116772918/218144590-cf608801-0e20-46c3-a67e-a82267da676b.jpg)
@@ -183,39 +188,74 @@
 
 **B)** Utilice un multímetro para medir el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
-**C)** Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
-
-
-**0 Hz**
-
-![image](https://user-images.githubusercontent.com/116772918/218149155-174c49a4-a175-4ee1-95d7-9e52378de311.png)
 
 
 
 **10 Hz**
 
-![image](https://user-images.githubusercontent.com/116772918/218149259-54e8f238-aa8b-44cb-b9d0-b1723e98a948.png)
+![62b1e278-2a85-49c5-a051-bcc7f8d0623a](https://user-images.githubusercontent.com/116772918/218151587-b9c2b6b5-19b5-43fe-b99a-16fe1c34cc6e.jpg)
 
 
 **50 Hz**
 
-![image](https://user-images.githubusercontent.com/116772918/218149388-36042dd4-c48d-4065-83d6-58dfb296a0f9.png)
+
+![50202b8c-7ff8-45a6-9d54-ebf9164da644](https://user-images.githubusercontent.com/116772918/218151621-6ca61b98-9ddb-49d0-add4-55239cdf088e.jpg)
 
 
 
 **100 Hz**
 
-![image](https://user-images.githubusercontent.com/116772918/218149446-9b444375-7b18-4915-b4af-bc81bc9c7f02.png)
+
+![9b9bf653-8f70-4551-b372-173c8b0033e0](https://user-images.githubusercontent.com/116772918/218151664-09736137-0e64-4d1e-9d13-f3200a591386.jpg)
 
 
 **500 Hz**
 
-![image](https://user-images.githubusercontent.com/116772918/218149498-fe929e85-1dcf-4cee-92ac-674c99fd715c.png)
+![9a41bb93-c3f0-4e96-a80e-8f31aa9d03f2](https://user-images.githubusercontent.com/116772918/218151732-87c35363-aca5-4e0f-bdc6-bef9fcbb5f2f.jpg)
 
 
 **1000 Hz**
 
-![image](https://user-images.githubusercontent.com/116772918/218149586-2ea6d9cd-850c-4663-84e8-9acbb1bf2a05.png)
+
+![0f328da4-2496-4508-b1f1-2960a4952eb4](https://user-images.githubusercontent.com/116772918/218151758-196f3387-a07c-466e-8a4b-d70262cc7662.jpg)
+
+
+**C)** Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+
+**0 Hz**
+
+
+![41765d92-ad32-4064-ad9b-d0fd6bd02f86](https://user-images.githubusercontent.com/116772918/218152469-85043aa1-b60c-4582-a046-e8f6e4e6c6b9.jpg)
+
+
+**10 Hz**
+
+![f71ff69b-c205-495d-b649-37ca0947dfb0](https://user-images.githubusercontent.com/116772918/218152535-6d440f9a-5014-41ba-b1bd-fc8ca1999c91.jpg)
+
+
+**50 Hz**
+
+![7bda75c1-ee65-4d5f-a77f-93658f080d82](https://user-images.githubusercontent.com/116772918/218152557-85cbfada-cfd6-4453-a458-a34730a5dacc.jpg)
+
+
+
+
+**100 Hz**
+
+![408e6389-4cdb-458b-9c56-3287ac45a695](https://user-images.githubusercontent.com/116772918/218152577-d09fa352-9593-4b58-a6bb-71abc1a8e797.jpg)
+
+
+
+**500 Hz**
+
+![030a8ddd-6519-4327-aaec-5ba664876c62](https://user-images.githubusercontent.com/116772918/218152609-fff09599-c6fc-4a17-8b51-74ecfdb757dc.jpg)
+
+
+**1000 Hz**
+
+![ea052602-4975-4cfc-b0fc-bbb3980df3d3](https://user-images.githubusercontent.com/116772918/218152621-c6e6a965-e33f-4da4-825f-70b24e5be9f8.jpg)
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
