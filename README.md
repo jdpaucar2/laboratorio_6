@@ -64,29 +64,29 @@
 
 **0 Hz**
 
-![image](https://user-images.githubusercontent.com/116772918/217969743-ba87c5e8-2fc9-4509-96b4-4d19e52198be.png)
+![image](https://user-images.githubusercontent.com/116772918/218565257-85021b47-ee33-4448-a14e-396947ac9485.png)
+
 
 **10 Hz**
 
-![image](https://user-images.githubusercontent.com/116772918/217989209-2670273e-8e1b-431e-a95b-870235878612.png)
+![image](https://user-images.githubusercontent.com/116772918/218566320-1e456e4e-c01d-457d-9af3-9135620bc0df.png)
 
 **50 Hz**
 
-![image](https://user-images.githubusercontent.com/116772918/217989480-1333caa0-cff7-4cfc-be14-f0201b208317.png)
+![image](https://user-images.githubusercontent.com/116772918/218567056-9aa0eb4d-89bd-4dad-ae67-bef12592c139.png)
 
 **100 Hz**
 
-![image](https://user-images.githubusercontent.com/116772918/217990065-22994cb8-d1c4-4201-a4df-dcd5ad2ec3c1.png)
-
+![image](https://user-images.githubusercontent.com/116772918/218568016-ed2d2c07-4142-4053-912c-cfe968de3573.png)
 
 **500 Hz**
 
-![image](https://user-images.githubusercontent.com/116772918/217990315-7aa61b00-a68a-49be-b098-52e4f24ae272.png)
+![image](https://user-images.githubusercontent.com/116772918/218568706-89a29b6d-49b5-4ff2-8d4a-ce6a16777624.png)
 
 
 **1000 Hz**
 
-![image](https://user-images.githubusercontent.com/116772918/217990630-118e2150-3e73-447a-b11b-ac18f616afc4.png)
+![image](https://user-images.githubusercontent.com/116772918/218569523-8efd37ce-f589-485d-815c-e6f3860cb19a.png)
 
 
 **B)** Utilice un multímetro para medir el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
