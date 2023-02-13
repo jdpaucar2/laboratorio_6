@@ -122,7 +122,7 @@
 
 **0 Hz**
 
-![image](https://user-images.githubusercontent.com/116772918/218096283-69f7524e-fea1-45d9-b4b9-2bff83978ff5.png)
+![image](https://user-images.githubusercontent.com/116772918/218577245-bc739efc-e659-442e-860c-3a35c29c3915.png)
 
 **10 Hz**
 
