@@ -270,13 +270,15 @@ diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. C
 comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
 
-![1a2b8945-a847-498b-a9ed-e0dbb55478bb](https://user-images.githubusercontent.com/116772918/218146399-79a84e85-7738-4e57-9fd7-720202ec0204.jpg)
+**CIRCUITO CON CAPACITORES**
 
 
+![b65d1ffa-d5a3-4fc5-a0d2-378a45fb0c69](https://user-images.githubusercontent.com/116772918/218591259-820208a6-d4f0-44eb-a832-c7adf1da32ce.jpg)
 
+**CIRCUITO CON INDUCTORES**
 
+![2f0c8e4b-b57d-45a7-b57c-dea0198db34d](https://user-images.githubusercontent.com/116772918/218591357-ced950af-744e-4786-be26-b4f940c6a14f.jpg)
 
-...
 
 
 
