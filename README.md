@@ -143,7 +143,7 @@
 
 **1000 Hz**
 
-![image](https://user-images.githubusercontent.com/116772918/218583321-bd76fafc-50fd-4005-9066-ecd7133fb617.png)
+![image](https://user-images.githubusercontent.com/116772918/218583648-539b12aa-ddb0-4078-913e-f83769d73824.png)
 
 
 ![image](https://user-images.githubusercontent.com/116772918/218143137-edd00b44-ed69-448e-bb7c-d21ed5b4a510.png)
